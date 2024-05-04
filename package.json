@@ -1,0 +1,24 @@
+{
+  "name": "cli-08-quiz-system",
+  "version": "1.0.1",
+  "description": "This is a CLI Quiz System Using Typescript And Node.js/Inquirer.",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anas Hakeem",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7"
+  }
+}
